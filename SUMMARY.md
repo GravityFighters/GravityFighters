@@ -1,6 +1,11 @@
 # Table of contents
 
-* [Gravity Fighters Introduction](README.md)
+* [👋 Gravity Fighters Introduction](README.md)
+* [🗺 Roadmap](roadmap.md)
 * [FAQ](faq.md)
-* [Roadmap](roadmap.md)
 * [Links](links.md)
+
+## 🎮 GAMEPLAY
+
+* [Gravity Fighters](gameplay/gravity-fighters.md)
+* [Game Modes](gameplay/game-modes.md)
