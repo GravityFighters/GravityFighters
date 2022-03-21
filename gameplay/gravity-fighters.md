@@ -1,4 +1,4 @@
-# Gravity Fighters
+# 💥 Gravity Fighters
 
 ### Overview
 

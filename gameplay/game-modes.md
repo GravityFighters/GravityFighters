@@ -1,4 +1,4 @@
-# Game Modes
+# 🎮 Game Modes
 
 Gravity Fighters is designed so that players have several options to choose from when it comes to earning $GVT tokens with their Gravity Fighters NFTs.
 

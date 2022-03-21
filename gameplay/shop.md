@@ -1,0 +1,3 @@
+# 🛒 Shop
+
+Gravity Fighters will feature a shop where users can purchase equipment for their NFTs, coming soon...
